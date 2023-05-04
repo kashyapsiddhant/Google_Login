@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023822922231",
+    "project_id": "sidd-1293c",
+    "storage_bucket": "sidd-1293c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023822922231:android:789fe5d77e9535dc6daef2",
+        "android_client_info": {
+          "package_name": "com.example.sidd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023822922231-2ransri12bp9d0au82bduvnahndr022k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSj1Nq0eysSuG0j3XAJPKourjTy-gcrsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023822922231-2ransri12bp9d0au82bduvnahndr022k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
